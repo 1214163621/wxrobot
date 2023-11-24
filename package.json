@@ -1,0 +1,28 @@
+{
+  "name": "wechat_robot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "express": "^4.17.1",
+    "fetch": "^1.1.0",
+    "formidable": "^1.2.2",
+    "moment": "^2.29.4",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.2",
+    "node-schedule": "^2.1.1",
+    "really-relaxed-json": "^0.3.2",
+    "request": "^2.88.2",
+    "xmldoc": "^1.2.0"
+  }
+}
